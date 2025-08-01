@@ -17,3 +17,5 @@
 ### My affirmations and affirmaions picture and music 
 <img width="1280" height="832" alt="Image" src="https://github.com/user-attachments/assets/f44aba7a-35db-4d8c-907d-36db11b57836" />
 
+### My app icon
+<img width="1280" height="832" alt="Image" src="https://github.com/user-attachments/assets/26fbbe92-35e2-4587-8cf3-5dfee991f2db" />
