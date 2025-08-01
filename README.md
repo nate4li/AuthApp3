@@ -11,5 +11,6 @@
 ### My contact form
 <img width="1280" height="832" alt="Image" src="https://github.com/user-attachments/assets/30973242-b68e-4c43-b8b6-f222702fa787" />
 
-
+### My gratiude journal
+<img width="1280" height="832" alt="Image" src="https://github.com/user-attachments/assets/133beb5b-de01-4c7d-b696-3421c1e2086f" />
 
